@@ -55,13 +55,11 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_bottom.cnt:system/etc/tfa9897/seltech_bottom.cnt \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_stereo.cnt:system/etc/tfa9897/seltech_stereo.cnt \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_top.cnt:system/etc/tfa9897/seltech_top.cnt \
-    vendor/alcatel/idol3/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/libFastFocus.so:system/lib/libFastFocus.so \
     vendor/alcatel/idol3/proprietary/lib/libVDBeautyShotAPI.so:system/lib/libVDBeautyShotAPI.so \
     vendor/alcatel/idol3/proprietary/lib/libVDLowLightAPI.so:system/lib/libVDLowLightAPI.so \
     vendor/alcatel/idol3/proprietary/lib/libfn.fastfocus.so:system/lib/libfn.fastfocus.so \
-    vendor/alcatel/idol3/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/alcatel/idol3/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/alcatel/idol3/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/alcatel/idol3/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
