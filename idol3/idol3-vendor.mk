@@ -525,7 +525,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/alcatel/idol3/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/alcatel/idol3/proprietary/lib64/libnetd_client.so:system/lib64/libnetd_client.so \
-    vendor/alcatel/idol3/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/alcatel/idol3/proprietary/lib64/sensors.native.so:system/lib64/sensors.native.so \
     vendor/alcatel/idol3/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/alcatel/idol3/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
