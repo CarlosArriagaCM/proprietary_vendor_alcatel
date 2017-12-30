@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_top.cnt:system/etc/tfa9897/seltech_top.cnt \
     vendor/alcatel/idol3/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
+    vendor/alcatel/idol3/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
     vendor/alcatel/idol3/proprietary/lib/libFastFocus.so:system/lib/libFastFocus.so \
     vendor/alcatel/idol3/proprietary/lib/libVDBeautyShotAPI.so:system/lib/libVDBeautyShotAPI.so \
     vendor/alcatel/idol3/proprietary/lib/libVDLowLightAPI.so:system/lib/libVDLowLightAPI.so \
@@ -521,6 +522,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/mmi_sensor.so:system/vendor/lib/mmi_sensor.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/mmi_sensor.so:system/vendor/lib64/mmi_sensor.so \
     vendor/alcatel/idol3/proprietary/lib64/hw/audio.primary.msm8916.so:system/lib64/hw/audio.primary.msm8916.so \
+    vendor/alcatel/idol3/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/alcatel/idol3/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/alcatel/idol3/proprietary/lib64/libnetd_client.so:system/lib64/libnetd_client.so \
     vendor/alcatel/idol3/proprietary/lib64/libril.so:system/lib64/libril.so \
