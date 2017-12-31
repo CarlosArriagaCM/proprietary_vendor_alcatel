@@ -62,10 +62,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/lib/libVDBeautyShotAPI.so:system/lib/libVDBeautyShotAPI.so \
     vendor/alcatel/idol3/proprietary/lib/libVDLowLightAPI.so:system/lib/libVDLowLightAPI.so \
     vendor/alcatel/idol3/proprietary/lib/libfn.fastfocus.so:system/lib/libfn.fastfocus.so \
-    vendor/alcatel/idol3/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/alcatel/idol3/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/alcatel/idol3/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/alcatel/idol3/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/alcatel/idol3/proprietary/lib/libtfa9897.so:system/lib/libtfa9897.so \
     vendor/alcatel/idol3/proprietary/lib64/hw/lights.msm8916.so:system/lib64/hw/lights.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib64/libtfa9897.so:system/lib64/libtfa9897.so \
