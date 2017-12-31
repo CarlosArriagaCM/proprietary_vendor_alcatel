@@ -55,7 +55,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_bottom.cnt:system/etc/tfa9897/seltech_bottom.cnt \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_stereo.cnt:system/etc/tfa9897/seltech_stereo.cnt \
     vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_top.cnt:system/etc/tfa9897/seltech_top.cnt \
-    vendor/alcatel/idol3/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
     vendor/alcatel/idol3/proprietary/lib/libFastFocus.so:system/lib/libFastFocus.so \
