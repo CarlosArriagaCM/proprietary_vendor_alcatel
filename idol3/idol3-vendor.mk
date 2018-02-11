@@ -493,7 +493,6 @@ PRODUCT_COPY_FILES += \
 ifeq ($(QCPATH),)
 PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/alcatel/idol3/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/alcatel/idol3/proprietary/vendor/bin/garden_app:system/vendor/bin/garden_app \
     vendor/alcatel/idol3/proprietary/vendor/bin/gpsone_daemon:system/vendor/bin/gpsone_daemon \
     vendor/alcatel/idol3/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
